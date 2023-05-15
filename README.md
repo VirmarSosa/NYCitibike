@@ -16,3 +16,4 @@
 - Sing in (https://public.tableau.com/)
 - Clone the repository.
 - Open the Jupyter Notebook "New York Citi Bike Project June2013-June2014-June2015.twbx" and run the file
+- or go to the link https://public.tableau.com/app/profile/virmar.sosa/viz/NewYorkCitiBikeProjectJune2013-June2014-June2015/StoryCitiBike
