@@ -11,3 +11,8 @@
 ![Story CitiBike  (8)](https://github.com/VirmarSosa/NYCitibike/assets/118692087/0b3b0781-d9e7-412a-9b54-e3c40d5e81a5)
 ![Story CitiBike  (9)](https://github.com/VirmarSosa/NYCitibike/assets/118692087/8f4a8196-eaa4-4744-91d5-13669c570e75)
 
+## To run the code, please follow these steps:
+
+- Sing in (https://public.tableau.com/)
+- Clone the repository.
+- Open the Jupyter Notebook "New York Citi Bike Project June2013-June2014-June2015.twbx" and run the file
